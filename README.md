@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+As a Senior Software Engineer at Mirafra Technologies, I leverage my expertise in Python and Django to create and maintain the backend of a cutting-edge online security provisioning platform. I work closely with product owners to understand customer requirements and develop new features that enhance the platform's functionality and security. I also ensure the quality of the newly added features by creating and maintaining the test architecture using the Django unit test system.
+
+In addition to my last role, I have experience as a Python Developer at AccuKnox, where I contributed to the development of a highly intelligent and well-designed online security provisioning platform. I also worked as a Software Engineer at RecoSense Infosolutions, where I was responsible for creating and maintaining deployed services for clients and performing R&D to improve the existing system. My tech stack includes Python, Fastapi, Flask, Django, MongoDB, PostgreSQL, Elasticsearch, Microsoft Azure, Microsoft Graph API, Linux, Git, Docker, AI/ML, logistic regression, statistical analysis/modelling, predictive analysis/modelling, NLP, LLMs, EDA, pandas, matplotlib, scikit-learn, seaborn, and more. 
+
+I hold certifications in Python 3, AWS, Data Analysis with Python, Machine Learning with python, and, Fundamentals of GenAI and LLMs.
+
+- 🔭 I’m currently working on my own project which is an online Food Delivery System.
+- 🌱 I’m currently learning AI and LLMs with agentic frameworks like LangChain, and LangGraph.
+- 📫 How to reach me: syedkaiser9770@gmail.com or connect with me on linkedin https://www.linkedin.com/in/syed-kaiser-mehmood-0316b9b5/
 <!--
 **syedkaiser123/syedkaiser123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
